@@ -1,14 +1,15 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/gorsentam/flutter
-FLUTTER_APPLICATION_PATH=/Users/gorsentam/Desktop/FlutterProjects/flutter_reactive_ble/example
+FLUTTER_APPLICATION_PATH=/Users/gorsentam/Desktop/FlutterProjects/flutter-ble-sample
 COCOAPODS_PARALLEL_CODE_SIGN=true
-FLUTTER_TARGET=lib/main.dart
+FLUTTER_TARGET=/Users/gorsentam/Desktop/FlutterProjects/flutter-ble-sample/lib/main.dart
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=5.0.3
 FLUTTER_BUILD_NUMBER=5.0.3
 EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386
 EXCLUDED_ARCHS[sdk=iphoneos*]=armv7
+DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC85MGZhM2FlMjhmZTZkZGFlZTFhZjJjMTIwZjAxZTUwMjAxYzE0MDFiLw==
 DART_OBFUSCATION=false
 TRACK_WIDGET_CREATION=true
 TREE_SHAKE_ICONS=false
-PACKAGE_CONFIG=.dart_tool/package_config.json
+PACKAGE_CONFIG=/Users/gorsentam/Desktop/FlutterProjects/flutter-ble-sample/.dart_tool/package_config.json
